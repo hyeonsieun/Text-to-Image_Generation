@@ -31,7 +31,7 @@ python preproc_datasets_celeba_zip_train.py --source=./multimodal_celeba_hq.zip 
                                             --transform center-crop --emb_dim 512 --width=256 --height=256
 ```
 
-Zip files at directory `./multimodal_celeba_hq.zip` is like:
+Zip file `./multimodal_celeba_hq.zip` is like:
 
 ```
 ./multimodal_celeba_hq.zip
