@@ -16,7 +16,8 @@ To execute this project, you'll need to modify the 'network.py' and 'train.py' f
 <br>
 A brief explanatory video about this project is available at the following [link](https://www.youtube.com/watch?v=ZQsFbdTFZjo).<br>
 <br>
-
+This project was designed to be primarily executed in the Google Colab environment.
+<br>
 ### CelebA-Dialog
 
 Dataset can be downloaded from [here](https://drive.google.com/drive/folders/1HwCTiyUUiN71fATB56Ea8qfUEq-X8AG7?usp=sharing).<br>
