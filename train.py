@@ -178,9 +178,16 @@ def train_step(train_loader, noise_dim, device, model_G, model_D_lst, optim_g, o
         TODO: pseudo text feature generation for Language-free training
         Generate the pseudo text feature using the idea of 'fixed perturbations' of LAFITE (https://arxiv.org/pdf/2111.13792.pdf).
         Note that img_feature and txt_feature is already normalized.
-        '''
 
-        pseudo_text_feature = 84
+        # BONUS : language-free generation
+
+        for idx in range(BATCH_SIZE):
+            noise = torch.randn(img_feature.shape[-1]).to(device)
+            img_embedding = 0.25 * normalize(img_feature[idx]) + 0.75 * normalize(noise)
+            img_feature[idx] = img_embedding
+        
+        # input img_feature to model_G's foward function instead of txt_feature
+        '''
         ################# Problem 4-(f). #################
 
         
