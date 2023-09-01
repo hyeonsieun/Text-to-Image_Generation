@@ -18,7 +18,7 @@ A brief explanatory video about this project is available at the following [link
 <br>
 This project was designed to be primarily executed in the Google Colab environment.
 <br>
-### CelebA-Dialog
+### MM-CelebA-HQ-Dataset
 
 Dataset can be downloaded from [here](https://drive.google.com/drive/folders/1HwCTiyUUiN71fATB56Ea8qfUEq-X8AG7?usp=sharing).<br>
 <br>
