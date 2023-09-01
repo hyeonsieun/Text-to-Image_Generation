@@ -49,6 +49,10 @@ Zip file `./multimodal_celeba_hq.zip` is like:
 ``` 
 
 ---
+## Measure FID and IS
+
+If you want to measure FID and IS, run the file 'Evaluate_FID_and_IS.ipynb'.
+
 
 ## Reference 
 
