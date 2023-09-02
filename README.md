@@ -1,4 +1,5 @@
 # Text-to-Image_Generation
+![T2 Image Model](./T2Imodel.PNG)
 
 This is the final project for the 2nd OUTTA AI Bootcamp, where I serve as the overall leader in the non-profit AI education organization I run, called [OUTTA](https://outta.ai).<br>
 <br>
