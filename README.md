@@ -3,7 +3,7 @@
 
 This is the final project for the 2nd OUTTA AI Bootcamp, where I serve as the overall leader in the non-profit AI education organization I run, called [OUTTA](https://outta.ai).<br>
 <br>
-This project is designed to generate images based on text input.<br>
+This project is designed to generate images based on text input. The goal of this project is to implement a simple T2I (Text-to-Image) Generation model using Conditional GANs.<br>
 <br>
 Along with the OUTTA members, I created this project, set it as the final team project assignment for the 2023 2nd OUTTA AI Bootcamp, and evaluated the submissions to select the top-performing teams.<br>
 <br>
